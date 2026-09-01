@@ -37,6 +37,25 @@ Create a function named rotate_word() that accepts a non-empty string. Move the 
 
 **Requirement:** Use string indexing or slicing to construct the returned string.
 
+**SOLUTION/DISCUSSION:**
+
+
+print ("word rotation")
+
+user_name = input("Please enter your name: ")
+
+def rotate_word(string):
+    if len(string) <= 1:       //(this ensures single letter and empty strings are returned immediately, preventing any index errors)
+        return string
+    return string[1:] + string[0] //utilizes basic sequencing and slicing
+
+
+print(rotate_word(user_name)) 
+word rotation
+elloworldh
+
+
+
 **B. USERNAME BUILDER PROBLEM**
 
 Create a function named make_username() that accepts two strings: first name and last name. The function must:
