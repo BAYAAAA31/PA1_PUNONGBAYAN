@@ -1,8 +1,8 @@
-# ECE 2112: Advanced Computer Programming and Algorithms[cite: 1]
+# ECE 2112: Advanced Computer Programming and Algorithms
 
-### Experiment 1: Introduction to Python Programming[cite: 1]
+### Experiment 1: Introduction to Python Programming
 
-**Student Name:** Punongbayan, AJ Andriz J. **Section:** 2ECE-A **Date Submitted:** September 1, 2026[cite: 1]
+**Student Name:** Punongbayan, AJ Andriz J. **Section:** 2ECE-A **Date Submitted:** September 1, 2026
 
 ## I. Objectives
 
