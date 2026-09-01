@@ -1,4 +1,5 @@
-# PA1_PUNONGBAYAN
+# ECE 2112: Advanced Computer Programming and Algorithms
+# jbsfjbsf
 EXPERIMENT 1: INTRODUCTION TO PYTHON PROGRAMMING
 Name: Surname, First Name M.I. Date Submitted:
 Section: 2ECE-
